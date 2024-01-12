@@ -19,7 +19,7 @@ redirect_from:
 
 Jason Xurong Liang is a first-year Ph.D. student at the University of Queensland, Australia. Prior to his candidacy, he earned a Bachelor of Computer Science degree with first-class honors from the University of Queensland. 
 
-He is currently working on the research topic of lightweight recommender system, advised by (Dr. Tong Chen)[https://eecs.uq.edu.au/profile/1253/rocky-chen] and (Prof. Hongzhi Yin)[https://sites.google.com/view/hongzhi-yin/home]. Looking at his research interest on a broader scale, he is keen to explore ideas and fun stuff in data mining, recommender systems, and user modeling. 
+He is currently working on the research topic of lightweight recommender system, advised by [Dr. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Looking at his research interest on a broader scale, he is keen to explore ideas and fun stuff in data mining, recommender systems, and user modeling. 
 
 The three main things he often does when he is not hitting the books📖 or sitting in front of a computer👨‍💻 are traveling🏖️, fishing🎣 and watching movies🍿.
 
@@ -72,8 +72,8 @@ Technology cohort.
 - *2016 - 2018*, Indooroopilly State High School, Brisbane, Australia.
 
 # 🧑‍🏫 Teaching
-- *2022 - now*, (INFS7901 – Database Principles)[https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7901]. Offered in Semester 1 each year. Giving practicals & tutorial sessions weekly and responsible for assignment and exam paper marking.
-- *2023 - now*, (INFS3208/INFS7208 - Cloud Computing)[https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208]. Offered in Semester 2 each year. Giving practicals & tutorial sessions weekly and responsible for assignment and exam paper marking.
+- *2022 - now*, [INFS7901 – Database Principles](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7901). Offered in Semester 1 each year. Giving practicals & tutorial sessions weekly and responsible for assignment and exam paper marking.
+- *2023 - now*, [INFS3208/INFS7208 - Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208). Offered in Semester 2 each year. Giving practicals & tutorial sessions weekly and responsible for assignment and exam paper marking.
 
 <!---
 # 💬 Invited Talks
