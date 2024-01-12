@@ -10,7 +10,7 @@ main:
     url: "/#-awards"
 
   - title: "Scholarships"
-    url: "/#-scholraships"
+    url: "/#-scholarships"
 
   - title: "Education"
     url: "/#-education"
