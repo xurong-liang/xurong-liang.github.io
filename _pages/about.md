@@ -75,6 +75,14 @@ Technology cohort.
 - *2022 - now*, [INFS7901 – Database Principles](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7901). Offered in Semester 1 each year. Giving practicals & tutorial sessions weekly and responsible for assignment and exam paper marking.
 - *2023 - now*, [INFS3208/INFS7208 - Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208). Offered in Semester 2 each year. Giving practicals & tutorial sessions weekly and responsible for assignment and exam paper marking.
 
+# More about me...
+Wanna get to know more about me? Have a look at my [CV](../Xurong_Liang_resume.pdf) 😎.
+
+
+---
+
+Template cloned from [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
+
 <!---
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
