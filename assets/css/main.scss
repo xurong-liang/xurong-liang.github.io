@@ -87,6 +87,13 @@
 
 }
 
+.clustrmaps-container {
+    width: 160px; /* Set your desired width */
+    height: 230px; /* Set your desired height */
+    overflow: hidden; /* This ensures that anything outside the bounds will be hidden */
+}
+
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
