@@ -19,7 +19,7 @@ redirect_from:
 
 Jason Xurong Liang is a first-year Ph.D. student at the University of Queensland, Australia. Prior to his candidacy, he earned a Bachelor of Computer Science degree with first-class honors from the University of Queensland. 
 
-He is currently working on the research topic of lightweight recommender system, advised by [Dr. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Looking at his research interest on a broader scale, he is keen to explore ideas and fun stuff in data mining, recommender systems, and user modeling. 
+Jason is currently working on the research topic of lightweight recommender system, advised by [Dr. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Looking at his research interest on a broader scale, he is keen to explore ideas and fun stuff in data mining, recommender systems, and user modeling. 
 
 The three main things he often does when he is not hitting the books📖 or sitting in front of a computer👨‍💻 are traveling🏖️, fishing🎣 and watching movies🍿.
 
@@ -81,7 +81,7 @@ Wanna get to know more about me? Have a look at my [CV](../Xurong_Liang_resume.p
 
 ---
 
-Template cloned from [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
+Webpage template cloned from [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
 
 <!---
 # 💬 Invited Talks
