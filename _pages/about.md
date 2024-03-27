@@ -35,18 +35,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2023</div><img src='images/CERP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)]((https://github.com/xurong-liang/LEGCF))
+- `ICDM 2023` [Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518), **Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/CERP?style=social&label=Code+Stars)]((https://github.com/xurong-liang/CERP))
 
-[Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518)
 
-**Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin
-
-[**Code**](git@github.com:xurong-liang/CERP.git) <strong><span class='show_paper_citations' data='jLgufxIAAAAJ:u5HHmVD_uO8C'></span></strong>
-- Memory efficient embedding layer for lightweight recommender system.
-- Achieved through the use of compositional codebooks and regularized pruning technique.
-</div>
-</div>
 
 <!---
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
