@@ -35,8 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
-- `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)]((https://github.com/xurong-liang/LEGCF))
-- `ICDM 2023` [Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518), **Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/CERP?style=social&label=Code+Stars)]((https://github.com/xurong-liang/CERP))
+- `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)](https://github.com/xurong-liang/LEGCF)
+- `ICDM 2023` [Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518), **Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/CERP?style=social&label=Code+Stars)](https://github.com/xurong-liang/CERP)
 
 
 
