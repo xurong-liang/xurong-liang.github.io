@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jason Xurong Liang is a first-year Ph.D. student at the University of Queensland, Australia. Prior to his candidacy, he earned a Bachelor of Computer Science degree with first-class honors from the University of Queensland. 
+Jason Xurong Liang is a second-year Ph.D. student at the University of Queensland, Australia. Prior to his candidacy, he earned a Bachelor of Computer Science degree with first-class honors from the University of Queensland. 
 
 Jason is currently working on the research topic of lightweight recommender system, advised by [Dr. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Looking at his research interest on a broader scale, he is keen to explore ideas and fun stuff in data mining, recommender systems, and user modeling. 
 
@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
-- `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)](https://github.com/xurong-liang/LEGCF)
+- `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](https://arxiv.org/abs/2403.18479), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)](https://github.com/xurong-liang/LEGCF)
 - `ICDM 2023` [Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518), **Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/CERP?style=social&label=Code+Stars)](https://github.com/xurong-liang/CERP)
 
 
