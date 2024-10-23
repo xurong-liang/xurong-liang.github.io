@@ -39,6 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 - `KDD 2024` [Hate Speech Detection with Generalizable Target-aware Fairness](https://arxiv.org/abs/2406.00046), Tong Chen, Danny Wang, **Xurong Liang**, Marten Risius, Gianluca Demartini, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/getfair?style=social&label=Code+Stars)](https://github.com/xurong-liang/getfair)
 - `ICDM 2023` [Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518), **Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/CERP?style=social&label=Code+Stars)](https://github.com/xurong-liang/CERP)
 
+# 💼 Internships
+
+- *Oct 2024 - now*, Applied Scientist Internship, Amazon, Australia. Conducting research on the topic of *Uncertainty Estimation in Recommender Systems* under the supervision of [Dr. Julien Monteil](https://scholar.google.com/citations?user=ZXFM_O8AAAAJ&hl=en).
 
 
 <!---
@@ -55,6 +58,7 @@ Technology cohort.
 
 # 🤑 Scholarships
 - *2023 - 2027* Australian Government Research Training Program (RTP) Scholarship
+- *2024* Google Research Travel Scholarship
 - *2022* UQ International Onshore Merit Scholarship
 - *2021* Winter Research Scholarship
 
@@ -80,7 +84,4 @@ Webpage template cloned from [acad-homepage](https://github.com/RayeRen/acad-hom
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 --->
