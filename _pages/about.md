@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💼 Internships
 
-- *Oct 2024 - now*, Applied Scientist Internship, Amazon, Australia. Conducting research on the topic of *Uncertainty Estimation in Recommender Systems* under the supervision of [Dr. Julien Monteil](https://scholar.google.com/citations?user=ZXFM_O8AAAAJ&hl=en).
+- *Oct 2024 - May 2025*, Applied Scientist Internship, Amazon, Australia. Conducting research on the topic of *In-context Learning for Addressing User Cold-start in Sequential Recommenders* with the guidance from [Dr. Julien Monteil](https://scholar.google.com/citations?user=ZXFM_O8AAAAJ&hl=en), [Dr. Vu Nguyen](https://vu-nguyen.org/), [Dr. Vuong Le](https://vuongle2.github.io/) and [Dr. Paul Albert](https://scholar.google.com/citations?user=trUhFBEAAAAJ&hl=en).
 
 
 <!---
