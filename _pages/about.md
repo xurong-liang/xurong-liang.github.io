@@ -35,6 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
+- `TOIS 2025` [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999), **Xurong Liang**, Tong Chen, Wei Yuan, Hongzhi Yin
+
 - `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](https://arxiv.org/abs/2403.18479), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)](https://github.com/xurong-liang/LEGCF)
 - `KDD 2024` [Hate Speech Detection with Generalizable Target-aware Fairness](https://arxiv.org/abs/2406.00046), Tong Chen, Danny Wang, **Xurong Liang**, Marten Risius, Gianluca Demartini, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/getfair?style=social&label=Code+Stars)](https://github.com/xurong-liang/getfair)
 - `ICDM 2023` [Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation](https://arxiv.org/abs/2309.03518), **Xurong Liang**, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/CERP?style=social&label=Code+Stars)](https://github.com/xurong-liang/CERP)
