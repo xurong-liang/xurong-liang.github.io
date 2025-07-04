@@ -35,6 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
+-`RecSys 2025` In-context Learning for Addressing User Cold-start in Sequential Movie Recommenders, **Xurong Liang**, Vu Nguyen, Vuong Le, Paul Albert, Julien Monteil
+
 - `TOIS 2025` [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999), **Xurong Liang**, Tong Chen, Wei Yuan, Hongzhi Yin
 
 - `SIGIR 2024` [Lightweight Embeddings for Graph Collaborative Filtering](https://arxiv.org/abs/2403.18479), **Xurong Liang**, Tong Chen, Lizhen Cui, Yang Wang, Meng Wang, Hongzhi Yin [![](https://img.shields.io/github/stars/xurong-liang/LEGCF?style=social&label=Code+Stars)](https://github.com/xurong-liang/LEGCF)
