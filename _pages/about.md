@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
--`RecSys 2025` In-context Learning for Addressing User Cold-start in Sequential Movie Recommenders, **Xurong Liang**, Vu Nguyen, Vuong Le, Paul Albert, Julien Monteil
+- `RecSys 2025` In-context Learning for Addressing User Cold-start in Sequential Movie Recommenders, **Xurong Liang**, Vu Nguyen, Vuong Le, Paul Albert, Julien Monteil
 
 - `TOIS 2025` [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999), **Xurong Liang**, Tong Chen, Wei Yuan, Hongzhi Yin
 
