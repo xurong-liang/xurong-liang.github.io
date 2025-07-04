@@ -61,7 +61,7 @@ Technology cohort.
 - *2017* Subject Prize Award – Information Processing and Technology, Indooroopilly State High School, Australia. Ranked 1st in the Information Processing and Technology course cohort.
 
 # 🤑 Scholarships
-- *2023 - 2027* Australian Government Research Training Program (RTP) Scholarship
+- *2023 - 2026* Australian Government Research Training Program (RTP) Scholarship
 - *2024* Google Research Travel Scholarship
 - *2022* UQ International Onshore Merit Scholarship
 - *2021* Winter Research Scholarship
