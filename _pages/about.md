@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jason Xurong Liang is a third-year Ph.D. student in Computer Science at the University of Queensland, Australia. He earned a Bachelor of Computer Science with First-Class Honors from the same university, graduating with a cumulative GPA of 7.00/7.00 in his honors year.
+Jason Xurong Liang is a third-year Ph.D. student in Computer Science at the University of Queensland, Australia. He earned a Bachelor of Computer Science with First-Class Honors from the same university in 2022.
 
-His Ph.D. research focuses on **efficient lightweight recommender systems**, advised by [Dr. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). His broader interests include **data mining**, **recommender systems**, **user modeling**, and **natural language processing**.
+His Ph.D. research focuses on **efficient lightweight recommender systems**, advised by [Assoc. Prof. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). His broader interests include **data mining**, **recommender systems**, **user modeling**, and **natural language processing**.
 
 He had a great summer at Amazon in 2024, where he worked with [Dr. Julien Monteil](https://scholar.google.com/citations?user=ZXFM_O8AAAAJ&hl=en), [Dr. Vu Nguyen](https://vu-nguyen.org/), [Dr. Vuong Le](https://vuongle2.github.io/) and [Dr. Paul Albert](https://scholar.google.com/citations?user=trUhFBEAAAAJ&hl=en) to explore the possibility of **leveraging LLM to tackle the long-standing user cold-start problem in video streaming platforms**.
 
