@@ -88,7 +88,8 @@
 }
 
 .mapmyvisitors-container {
-    width: 100%;       /* Lets the widget fill the sidebar naturally */
+    width: 160px; /* Set your desired width */
+    height: 230px; /* Set your desired height */
     max-width: 160px;  /* Prevents it from getting too wide and breaking the layout */
     margin: 0 auto;    /* Centers the widget in the sidebar */
     overflow: hidden;  /* Keeps the globe neatly clipped */
