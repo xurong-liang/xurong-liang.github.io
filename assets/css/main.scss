@@ -88,11 +88,11 @@
 }
 
 .mapmyvisitors-container {
-    width: 160px; /* Set your desired width */
-    height: 230px; /* Set your desired height */
-    max-width: 160px;  /* Prevents it from getting too wide and breaking the layout */
-    margin: 0 auto;    /* Centers the widget in the sidebar */
-    overflow: hidden;  /* Keeps the globe neatly clipped */
+    width: 100%;          /* Dynamically fills whatever width the sidebar is */
+    margin: 1em auto;     /* Adds a little vertical breathing room and centers it */
+    display: flex;        /* Helps center the injected widget */
+    justify-content: center;
+    overflow: hidden;
 }
 
 /* This forces any injected iframe, canvas, or image to shrink to the container */
