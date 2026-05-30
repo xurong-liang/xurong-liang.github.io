@@ -88,19 +88,20 @@
 }
 
 .mapmyvisitors-container {
-    width: 100%;          /* Dynamically fills whatever width the sidebar is */
-    margin: 1em auto;     /* Adds a little vertical breathing room and centers it */
-    display: flex;        /* Helps center the injected widget */
-    justify-content: center;
-    overflow: hidden;
+    display: block;
+    width: 100%;
+    margin: 1.5em auto; /* Adds breathing room above and below */
+    text-align: center; /* Centers the widget contents */
 }
 
-/* This forces any injected iframe, canvas, or image to shrink to the container */
-.mapmyvisitors-container * {
+/* Only target the actual image/map elements, leaving the text and wrapper alone */
+.mapmyvisitors-container img,
+.mapmyvisitors-container canvas,
+.mapmyvisitors-container iframe {
     max-width: 100% !important;
     height: auto !important;
+    margin: 0 auto;
 }
-
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
