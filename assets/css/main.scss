@@ -88,9 +88,10 @@
 }
 
 .mapmyvisitors-container {
-    width: 300px; /* Adjust as needed */
-    height: 190px; /* Adjust as needed */
-    overflow: hidden; /* This ensures that anything outside the bounds will be hidden */
+    width: 100%;       /* Lets the widget fill the sidebar naturally */
+    max-width: 200px;  /* Prevents it from getting too wide and breaking the layout */
+    margin: 0 auto;    /* Centers the widget in the sidebar */
+    overflow: hidden;  /* Keeps the globe neatly clipped */
 }
 
 
