@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jason Xurong Liang is a third-year Ph.D. student in Computer Science at the University of Queensland, Australia. He earned a Bachelor of Computer Science with First-Class Honors from the same university in 2022.
+Jason Xurong Liang is a final-year Ph.D. candidate in Computer Science at the University of Queensland, Australia. He earned a Bachelor of Computer Science with First-Class Honors from the same university in 2022.
 
 His Ph.D. research focuses on **efficient lightweight recommender systems**, advised by [Assoc. Prof. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). His broader interests include **data mining**, **recommender systems**, **user modeling**, and **natural language processing**.
 
-He had a great summer at Amazon in 2024, where he worked with [Dr. Julien Monteil](https://scholar.google.com/citations?user=ZXFM_O8AAAAJ&hl=en), [Dr. Vu Nguyen](https://vu-nguyen.org/), [Dr. Vuong Le](https://vuongle2.github.io/) and [Dr. Paul Albert](https://scholar.google.com/citations?user=trUhFBEAAAAJ&hl=en) to explore the possibility of **leveraging LLM to tackle the long-standing user cold-start problem in video streaming platforms**.
+He had a highly productive tenure as an Applied Scientist Intern at Amazon (Oct 2024 – May 2025), where he worked with [Dr. Julien Monteil](https://scholar.google.com/citations?user=ZXFM_O8AAAAJ&hl=en), [Dr. Vu Nguyen](https://vu-nguyen.org/), [Dr. Vuong Le](https://vuongle2.github.io/) and [Dr. Paul Albert](https://scholar.google.com/citations?user=trUhFBEAAAAJ&hl=en) to explore the possibility of **leveraging LLM to tackle the long-standing user cold-start problem in video streaming platforms**.
 
 When he is not immersed in his studies📖 or in front of a computer👨‍💻, he enjoys traveling🏖️, fishing🎣, and watching movies🍿.
 
@@ -67,17 +67,17 @@ When he is not immersed in his studies📖 or in front of a computer👨‍💻,
 
 
 # 📖 Education
-* **2023 - now**, Doctor of Philosophy, University of Queensland, Brisbane, Australia.
+* **2023 - Present**, Doctor of Philosophy, University of Queensland, Brisbane, Australia.
 * **2022**, Undergraduate (Honors), University of Queensland, Brisbane, Australia.
 * **2019 - 2021**, Undergraduate, University of Queensland, Brisbane, Australia.
 * **2016 - 2018**, Indooroopilly State High School, Brisbane, Australia.
 
 
 # 🧑‍🏫 Teaching
-* **2022 - now**, [INFS7901 – Database Principles](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7901).
-    * Gave weekly practical and tutorial sessions and was responsible for assignment and exam paper marking.
-* **2023 - now**, [INFS3208/INFS7208 - Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208).
-    * Gave weekly practical and tutorial sessions and was responsible for assignment and exam paper marking.
+* **2022 - Jul 2026**, **Head Tutor**, [INFS7901 – Database Principles](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7901).
+    * Directed weekly practical and tutorial sessions, managed course administration, and coordinated the comprehensive marking of assignments and examinations.
+* **2023 - Jul 2026**, **Head Tutor**, [INFS3208/INFS7208 - Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208).
+    * Directed weekly practical and tutorial sessions, managed course administration, and coordinated the comprehensive marking of assignments and examinations.
 
 
 # More about me...
